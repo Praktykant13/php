@@ -48,8 +48,9 @@
             <p>Ratuj mnie, przyjacielu, w ostatniej potrzebie: Kocham piękną Irenę. Rodzice i ona...</p>
         </article>
     </main>
-    <footer>Stronę wykonał: Tomasz Barzycki</footer>
+    <footer>Stronę wykonał: Tomasz Barzycki 5TiB</footer>
 </body>
 
 
 </html>
+
